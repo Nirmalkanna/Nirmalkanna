@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Nirmalkanna
-- 👀 I’m interested in computer languages
+- 👀 I’m interested in computing languages
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nirmalkanna286@gmail.com
+- 📫 How to reach me - nirmalkanna286@gmail.com
 
 <!---
 Nirmalkanna/Nirmalkanna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
